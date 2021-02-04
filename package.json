@@ -1,0 +1,28 @@
+{
+  "name": "about-me",
+  "version": "1.0.0",
+  "description": "Introducing myself using node in the command line",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abecojc/intro-node.git"
+  },
+  "keywords": [
+    "Learning"
+  ],
+  "author": "abecojc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abecojc/intro-node/issues"
+  },
+  "homepage": "https://github.com/abecojc/intro-node#readme",
+  "dependencies": {
+    "cypress": "^6.4.0",
+    "express": "^4.17.1",
+    "react-dropzone": "^11.3.0"
+  }
+}
