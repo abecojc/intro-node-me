@@ -21,8 +21,8 @@ export const info = {
     },
     training: {
         school: "MSIMBO Web Development bootcamp",
-        location: "Boston MA",
-        parentOrganization: "Urban League of Massachusetts"
+        address: "Boston MA",
+        parentOrg: "Urban League of Massachusetts"
     }
 
 }
