@@ -1,5 +1,5 @@
 {
-  "name": "intro-node",
+  "name": "intro-node-me",
   "version": "1.0.0",
   "description": "Introducing myself using node in the command line",
   "main": "index.mjs",
@@ -23,7 +23,8 @@
   "dependencies": {
     "cypress": "^6.4.0",
     "express": "^4.17.1",
+    "intro-node": "^1.0.0",
+    "intro-node-me": "^1.0.0",
     "react-dropzone": "^11.3.0"
-  },
-  "devDependencies": {}
+  }
 }
