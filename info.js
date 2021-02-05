@@ -2,7 +2,8 @@ export const info = {
     name: {
         firstName: "Abeco",
         middleName: "Jean-Claude",
-        lastName: "Rwakabuba"
+        lastName: "Rwakabuba",
+        email: "ARwakabuba@msimbo.org"
     },
     location: {
         city: "Somerville",

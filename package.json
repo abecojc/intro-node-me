@@ -1,5 +1,5 @@
 {
-  "name": "about-me",
+  "name": "intro-node",
   "version": "1.0.0",
   "description": "Introducing myself using node in the command line",
   "main": "index.mjs",
