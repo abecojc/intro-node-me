@@ -1,9 +1,12 @@
 {
   "name": "intro-node-me",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "Introducing myself using node in the command line",
   "main": "index.mjs",
   "type": "module",
+  "bin": {
+    "abeco-resume": "index.mjs"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -26,5 +29,6 @@
     "intro-node": "^1.0.0",
     "intro-node-me": "^1.0.0",
     "react-dropzone": "^11.3.0"
-  }
+  },
+  "devDependencies": {}
 }

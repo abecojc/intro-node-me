@@ -11,13 +11,13 @@ export const info = {
     },
     skillsOfInterest: {
         webLanguages:{
-                scripting: "Javascript",
-                markdown: "HTML",
-                styling: "CSS"
-            },
+            scripting: "Javascript",
+            markdown: "HTML",
+            styling: "CSS"
+        },
         javascriptFrameworks: {
-                    title: "react",
-                    popularUse: "Building apps"
+            title: "react",
+            popularUse: "Building apps"
         }
     },
     training: {
