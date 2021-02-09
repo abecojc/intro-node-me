@@ -27,3 +27,5 @@ export const info = {
     }
 
 }
+
+export default info;
