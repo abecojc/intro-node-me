@@ -27,12 +27,14 @@
   "homepage": "https://github.com/abecojc/intro-node-me#readme",
   "dependencies": {
     "cypress": "^6.4.0",
-    "express": "^4.17.1",
     "intro-node": "^1.0.0",
     "intro-node-me": "^1.0.0",
     "react-dropzone": "^11.3.0"
   },
   "engines": {
     "node": "15.8.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
   }
 }
