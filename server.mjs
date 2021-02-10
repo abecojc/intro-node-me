@@ -10,6 +10,6 @@ myApp.get('/', ( req, res ) =>{
 
 myApp.get('/abeco-resume', ( req, res ) => res.send( info ));
 
-myApp.listen(`${PORT}`, () => {
+myApp.listen( PORT, () => {
     console.log( "Welcome to Abeco's resume" )
 });
