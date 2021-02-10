@@ -16,7 +16,8 @@
     "url": "git+https://github.com/abecojc/intro-node-me.git"
   },
   "keywords": [
-    "Learning"
+    "Learning",
+    "heroku"
   ],
   "author": "abecojc",
   "license": "ISC",
@@ -30,5 +31,8 @@
     "intro-node": "^1.0.0",
     "intro-node-me": "^1.0.0",
     "react-dropzone": "^11.3.0"
+  },
+  "engines": {
+    "node": "15.8.0"
   }
 }
