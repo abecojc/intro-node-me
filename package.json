@@ -9,7 +9,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodejs server.mjs"
+    "start": "node server.mjs"
   },
   "repository": {
     "type": "git",
@@ -27,12 +27,12 @@
   "homepage": "https://github.com/abecojc/intro-node-me#readme",
   "dependencies": {
     "cypress": "^6.4.0",
-    "intro-node": "^1.0.0",
     "intro-node-me": "^1.0.0",
     "react-dropzone": "^11.3.0"
   },
   "engines": {
-    "node": "15.8.0"
+    "node": "15.8.0",
+    "npm": "7.5.3"
   },
   "devDependencies": {
     "express": "^4.17.1"
