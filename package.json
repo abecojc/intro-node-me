@@ -5,7 +5,7 @@
   "main": "index.mjs",
   "type": "module",
   "bin": {
-    "abeco-resume": "index.mjs"
+    "intro-node-me": "index.mjs"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

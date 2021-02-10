@@ -11,5 +11,5 @@ app.get('/', ( req, res ) =>{
 app.get('/abeco-resume', ( req, res ) => res.send( info ));
 
 app.listen( PORT, () => {
-    console.log( "Welcome to Abeco's resume" )
+    console.log( `Welcome to Abeco's resume running on port ${PORT}` )
 });
