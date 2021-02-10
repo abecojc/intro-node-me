@@ -1,5 +1,5 @@
 import express from 'express';
-import info from './info.mjs';
+import { info } from './info.mjs';
 
 const myApp = express();
 const PORT = '3333';
