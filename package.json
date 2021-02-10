@@ -1,6 +1,6 @@
 {
   "name": "intro-node-me",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Introducing myself using node.js in the command line",
   "main": "index.mjs",
   "type": "module",
