@@ -1,7 +1,7 @@
 {
   "name": "intro-node-me",
   "version": "1.2.0",
-  "description": "Introducing myself using node in the command line",
+  "description": "Introducing myself using node.js in the command line",
   "main": "index.mjs",
   "type": "module",
   "bin": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abecojc/intro-node.git"
+    "url": "git+https://github.com/abecojc/intro-node-me.git"
   },
   "keywords": [
     "Learning"
@@ -21,9 +21,9 @@
   "author": "abecojc",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/abecojc/intro-node/issues"
+    "url": "https://github.com/abecojc/intro-node-me/issues"
   },
-  "homepage": "https://github.com/abecojc/intro-node#readme",
+  "homepage": "https://github.com/abecojc/intro-node-me#readme",
   "dependencies": {
     "cypress": "^6.4.0",
     "express": "^4.17.1",
