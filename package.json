@@ -27,7 +27,6 @@
   "homepage": "https://github.com/abecojc/intro-node-me#readme",
   "dependencies": {
     "cypress": "^6.4.0",
-    "intro-node-me": "^1.0.0",
     "react-dropzone": "^11.3.0"
   },
   "engines": {
