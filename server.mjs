@@ -18,7 +18,7 @@ app.get('/volunteer', ( req, res ) => res.send( info.volunteer ));
 app.get('/education', ( req, res ) => res.send( info.education ));
 app.get('/skills', ( req, res ) => res.send( info.skills ));
 app.get('/otherSkills', ( req, res ) => res.send( info.otherSkills ));
-
+    
 
 app.listen( PORT, () => {
     console.log( `Welcome to Abeco's resume running on port ${PORT}` )
