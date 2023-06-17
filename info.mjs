@@ -2,12 +2,12 @@ export const info = {
         "basics": {
             "firstName": "Abeco",
             "lastName": "Rwakabuba",
-            "label": "Full Stack Developer",
+            "label": "Software Engineer",
             "email": "jabeclo@gmail.com",
-            "summary": "This is an overview of the skills I have gleined and the experiences that shape the ranges of services I can offer in web development.",
+            "summary": "This is an overview of the skills I have gleined and the experiences that shape the ranges of services I can offer in Software Engineering.",
             "location": {
                 "city": "Somerville", 
-                "zipCode": "02145",           
+                "zipCode": "02144",           
                 "stateAbbr": "MA",
                 "countryCode": "US"
             }
@@ -18,6 +18,13 @@ export const info = {
             "url": "https://github.com/abecojc"
         },
         "work": [{
+            "company": "Wayfair",
+            "job": "Software Engineer Intern",
+            "website": "https://www.wayfair.com/",
+            "duration": "Summer 2023",
+            "detail": "Building micro services",        
+            },
+           {     
             "company": "Parker Chomerics",
             "job": "Manufacturing tech",
             "website": "https://www.parker.com/chomerics",
@@ -39,19 +46,27 @@ export const info = {
             "description": "Language translation and Interpretation"
         },
         "education": [{
-            "institution": "MSIMBO Web Development Academy of ULEM",
+            "institution": "University of Massachusetts - Boston",
+            "campus": "Boston MA",
+            "area": "Computer Science",
+            "studyType": "Undergraduate",
+            "endYear": "2024",
+            "gpa": "3.3" 
+            },
+            {
+            "institution": "MSIMBO Coding Academy of ULEM",
             "campus": "Boston MA",
             "area": "Web Development",
             "studyType": "Bootcamp",
             "endYear": "2021",
-            "gpa":" "                     
+            "gpa":"N/A "                     
             },
             {
             "institution": "University of Massachusetts - Boston",
             "campus": "Boston MA",
             "area": "Engineering Physics",
-            "studyType": "Current undergraduate",
-            "endYear": "2023",
+            "studyType": "Undergraduate",
+            "endYear": "N/A",
             "gpa": "3.57" 
             },
             {
@@ -73,17 +88,20 @@ export const info = {
           "field": "Full Stack Web Development",  
           "focus": [{
             "type": "front end",
-            "webLanguages":  [
-                "HTML",
-                "CSS/Tailwindcss",
+            "Languages":  [
+                "Java",
+                "C",
+                "C++",
+                "PHP",    
                 "Javascript"
             ],
             "frameworks": "react"
             },
             {
             "type": "back end",
-            "webLanguages": "node.js",
-            "frameworks": "express"
+            "Languages": "node.js",
+            "frameworks": "express",
+            "Database": "Postgres"
             }
           ]},
 
