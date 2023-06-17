@@ -85,9 +85,9 @@ export const info = {
             "exert": "Research fellowship"
         },
         "skills": {
-          "field": "Full Stack Web Development",  
+          "field": "Software Engineering",  
           "focus": [{
-            "type": "front end",
+            "type": "Languages",
             "Languages":  [
                 "Java",
                 "C",
